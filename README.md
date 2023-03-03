@@ -10,4 +10,6 @@ If you stumbled across this repository you are most like in the Talent Acquisiti
 
 PS: Although my focus is technical recruitment, here you can find tools, websites, blogs, videos and training materials that apply to any area of specialisation. 🔎
 
+
+
 ##  💻 Websites 💻
