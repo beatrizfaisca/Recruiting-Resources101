@@ -83,6 +83,8 @@ PS: Although my focus is technical recruitment, here you can find tools, website
 
 [Wellfound](https://wellfound.com/) - Startup job search platform
 
+[caio.pro](https://caio.pro/) - AI leadership job board; free to browse, with paid featured placements
+
 [Hunter](https://hunter.io/) - Finding professional email addresses
 
 [Mighty Recruiter](https://www.mightyrecruiter.com/hiring-software-features/mightysourcer-chrome-extension/) - Extension to help find candidate information
